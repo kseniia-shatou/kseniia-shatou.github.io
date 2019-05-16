@@ -103,22 +103,7 @@ header ol {
 }
 */
 
-/*
-#products {
-    position: absolute;
-    left: 400px;
-    width: 160px;
-    height: 80px;
-    top: 0px;
-    -moz-transition: all 0.6s;
-    -webkit-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
-    border-radius: 0 0 30px 30px;
-    background-color: aqua;
-    z-index: 13;
-}
-*/
+
 
 #products:hover {
     height: 200px;
