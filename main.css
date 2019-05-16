@@ -103,6 +103,7 @@ header ol {
 }
 */
 
+/*
 #products {
     position: absolute;
     left: 400px;
@@ -117,6 +118,7 @@ header ol {
     background-color: aqua;
     z-index: 13;
 }
+*/
 
 #products:hover {
     height: 200px;
